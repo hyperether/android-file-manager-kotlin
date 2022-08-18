@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_margin">12dp</dimen>
+    <dimen name="tiny_margin">2dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="file_picker_icon_size">54dp</dimen>
+    <dimen name="medium_margin">8dp</dimen>
+    <dimen name="bigger_text_size">16sp</dimen>
+
+</resources>

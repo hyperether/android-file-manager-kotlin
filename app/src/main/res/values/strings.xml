@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">File Manager</string>
+    <string name="folder">folder</string>
+    <string name="create_new_folder">Create new folder</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="title">Title</string>
+    <string name="no_files_found">NO FILES FOUND</string>
+    <string name="file_manager_database">file_manager_database</string>
+</resources>
